@@ -1,0 +1,1 @@
+This paper aims to introduce a proof-of-majority(PoM) consensus algorithm and show how it increases decentralization. Another goal is to compare the initial version of the chain implementation with already existing chains. The results clearly show that the PoM chain outperforms the currently existing popular chains in latency, throughput, and level of decentralization. 
